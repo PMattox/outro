@@ -1,19 +1,19 @@
 ### To Do
 
-✓ Fade out after timing of song
-☐  After fade, leave up terminal text "END OF LINE" in Tron blue color
---- *or* make it look like it was typed
+✓ Fade out after timing of song  
+☐  After fade, leave up terminal text "END OF LINE" in Tron blue color  
+--- *or* make it look like it was typed  
 ☐ Fade *in* to match intro / pretty quick
 
 ### REFERENCES
 
-Audio
+Audio  
 https://stackoverflow.com/questions/50490304/how-to-make-audio-autoplay-on-chrome
 
-CSS
+CSS  
 https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started
 
-Fade out
+Fade out  
 https://stackoverflow.com/questions/64753675/css-fade-out-and-stay-so
 
 https://stackoverflow.com/questions/30064932/hide-element-after-fade-out-using-only-css#:~:text=When%20you%20add%20the%20class%20%27fadeOut%27%20to%20the,no%20longer%20give%20the%20%22text%20selection%22%20mouse%20pointer.
