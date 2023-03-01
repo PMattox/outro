@@ -1,0 +1,10 @@
+.fade-out-image { 
+  animation: fadeOut 22s;
+  animation-delay: 240s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes fadeOut { 
+	0% { opacity: 1; visibility: visible; } 
+	100% { opacity: 0; visibility: hidden; }
+} 
