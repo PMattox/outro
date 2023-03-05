@@ -5,9 +5,11 @@
 --- "END OF LINE" in Tron blue color, terminal text  
 ----- make this appear as if it's typed  
 --- *or* SEE YOU SPACE COWBOY in bottom right, Cheltenham Bold Condensed or ITC    
+☐ Trim mp3 to remove junk at the end  
+☐ Adjust fadeOut timing to match trimmed mp3  
 ☐ Fade *in* to match intro / pretty quick  
 
-### REFERENCES
+### References
 
 Audio  
 https://stackoverflow.com/questions/50490304/how-to-make-audio-autoplay-on-chrome
