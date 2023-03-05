@@ -1,9 +1,11 @@
 ### To Do
 
 ✓ Fade out after timing of song  
-☐  After fade, leave up terminal text "END OF LINE" in Tron blue color  
---- *or* make it look like it was typed  
-☐ Fade *in* to match intro / pretty quick
+☐  After fade, show some message  
+--- "END OF LINE" in Tron blue color, terminal text  
+----- make this appear as if it's typed  
+--- *or* SEE YOU SPACE COWBOY in bottom right, Cheltenham Bold Condensed or ITC    
+☐ Fade *in* to match intro / pretty quick  
 
 ### REFERENCES
 
@@ -25,3 +27,6 @@ https://programmersportal.com/how-to-hide-a-div-after-5-seconds-in-css/
 https://stackoverflow.com/questions/20881374/css-transition-fade-in-delay-fade-out
 
 https://blog.hubspot.com/website/css-fade-in#:~:text=Here%27s%20how%20to%20make%20this%20effect%20happen%3A%201,and%20%22-ms%22%20%E2%80%94%20to%20ensure%20cross-browser%20compatibility.%20
+
+Bottom right  
+https://stackoverflow.com/questions/44228685/position-text-to-stay-in-bottom-right-corner
