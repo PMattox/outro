@@ -8,6 +8,8 @@
 ☐ Trim mp3 to remove junk at the end  
 ☐ Adjust fadeOut timing to match trimmed mp3  
 ☐ Fade *in* to match intro / pretty quick  
+☐ Select a random gif from a collection of a few different outrun items  
+--- https://old.reddit.com/r/gifs/comments/11l9crl/a_retro_loop_gif_i_made/  
 
 ### References
 
