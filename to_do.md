@@ -1,7 +1,8 @@
 ### To Do
 
 ✓ Fade out after timing of song  
-☐  After fade, leave up terminal text "END OF LINE" in Tron blue color  
+✓ After fade, fade in text "SEE YOU SPACE COWBOY ..."  
+✖ Alternatively, after fade, leave up terminal text "END OF LINE" in Tron blue color  
 --- *or* make it look like it was typed  
 ☐ Fade *in* to match intro / pretty quick
 
