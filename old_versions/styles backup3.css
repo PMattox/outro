@@ -1,6 +1,6 @@
 .fade-out-image { 
   animation: fadeOut 22s;
-  animation-delay: 240s; 
+  animation-delay: 24s;
   animation-fill-mode: forwards;
 }
 
@@ -24,8 +24,6 @@
 	font-weight: 600;
 	font-size: 3vh;
 	font-style: italic;
-	font-family: math;
-/*	font-family: "ITC Cheltenham Pro Bold Italic", serif; */
       animation: fadeIn 10s;
-	animation-delay: 252s; /* fadeOut animation + delay - 10s = 252s */
+	animation-delay: 36s;
 	animation-fill-mode: backwards;}
